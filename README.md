@@ -1,8 +1,8 @@
-👋 Hi, I’m @ALOYR26 AKA M Siddartha Reddy
-👀 I’m interested in ....
-🌱 I’m currently learning AI & ML , Quantum Computing , Deep Learning, NLP
-💞️ I’m looking to collaborate on Real Time Projects on Artificial Intelligence and Machine Learning
-📫How to reach me msr26k3@gmail.com
+- 👋 Hi, I’m @ALOYR26 AKA M Siddartha Reddy
+- 👀 I’m interested in ....
+- 🌱 I’m currently learning AI & ML , Quantum Computing , Deep Learning, NLP
+- 💞️ I’m looking to collaborate on Real Time Projects on Artificial Intelligence and Machine Learning
+- 📫How to reach me msr26k3@gmail.com
 
 
 <!---
